@@ -7,7 +7,7 @@
 - [Wechat](#Wechat)
 - [Books](#Books)
 - [Software](#Software)
-- [Nintendo Switch](#Nintendo Switch)
+- [Nintendo Switch](#Nintendo-Switch)
 
 
 
